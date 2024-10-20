@@ -1,2 +1,0 @@
-# BrightAcademy
- Metodologías Ágiles
