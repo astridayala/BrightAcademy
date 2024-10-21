@@ -5,7 +5,7 @@ import { PORT } from './config.js'
 const app = express()
 
 app.get('/', (req, res) => {
-    res.sendFile('Welcome to Server')
+    res.send('Welcome to Server')
 })
 
 app.get('/ping', async (req, res) => {
